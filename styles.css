@@ -1,0 +1,52 @@
+h1 {
+    color: purple;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 2em;
+}
+
+.styling-p {
+    color: #370323;
+
+}
+p {
+    color: #333;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.2em;
+    line-height: 1.5;
+    margin: 20px;
+}
+
+body {
+    background-color: #dfc0d7;
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+.box-model-p {
+    color: #370323;
+    background-color: #e3f2fd;
+    padding: 10px;
+    border: 2px solid #4CAF50;
+    border-radius: 5px;
+    margin: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.2em;
+    text-align: center;
+
+}
+
+.info-card {
+    background: #fffbe7;
+    border: 3px solid #ffb347;
+    padding: 20px;
+    margin: 40px auto;
+    max-width: 350px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    text-align: center;
+}
+.info-card h2 {
+    margin-top: 0;
+    color: #b85c38;
+}
